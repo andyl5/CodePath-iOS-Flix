@@ -99,7 +99,6 @@
 				1C914CA9DAC7497595633EAE /* Pods-flixster.debug.xcconfig */,
 				1C684C07EDFAC4511997415B /* Pods-flixster.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
